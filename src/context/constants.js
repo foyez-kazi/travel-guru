@@ -1,0 +1,4 @@
+export const Actions = {
+  SET_LOGGED_IN_USER: 'SET_LOGGED_IN_USER',
+  SIGN_OUT_USER: 'SIGN_OUT_USER',
+}
